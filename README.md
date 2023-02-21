@@ -1,6 +1,6 @@
 ### Hi there, I'm Likhith Harish 👋
 
-Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?${likhithharish}.${your.repo.id}=page.id)
+Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?${likhithharish}.${604479762}=${likhithharish}.${604479762})
 <!--
 **likhithharish/likhithharish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
