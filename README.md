@@ -1,6 +1,18 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ### Hi there, I'm Likhith Harish 👋
 
 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+
+- 🔭 I’m currently working on Completing my Master's degree and join Summer 23 internship.
+- 🌱 I’m currently learning Android Jetpack, Clean Architecture and some POC.
+- 👯 I’m looking to collaborate on Android & Web Development.
+- 🤔 I’m looking for help with Job & internship search.
+- 💬 Ask me about 
+- 📫 How to reach me: 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=likhithharish&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
