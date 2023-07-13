@@ -20,8 +20,6 @@ https://github.com/likhithharish/myPersonal_Portfolio_Website
 # 💫 About Me:
 🔭 I’m currently working on a Full-stack MERN website.<br>👯 I’m looking to collaborate on Android app and Open source web framework development.<br>🤝 I’m looking for help with Android Jetpack compose and new concepts in React JS.<br>🌱 I’m currently learning Jetpack and MERN.<br>💬 Ask me about coding, music, and how to change careers and become a Software Engineer.<br>⚡ Fun fact I have a undergraduate degree in Mechanical Engineering.
 --->
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/likhith-harish/) 
 
 # 💻 Tech Stack:
